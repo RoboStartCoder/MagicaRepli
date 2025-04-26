@@ -6,5 +6,5 @@
 java -jar MagicaRepli-1.0.jar "path/to/magicaVoxFile"
 ```
 
-Animation doesn't supported, planned for future version
+Animation doesn't supported, planned for future version, 
 Max size of model is 33x33x33
