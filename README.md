@@ -1,5 +1,5 @@
 ## Converter from [MagicaVoxel File](https://github.com/ephtracy/voxel-model) to [Replicube](https://store.steampowered.com/app/3401490/Replicube/)
-## Requires Java 21
+### Requires Java 21
 
 ### Usage:
 ```
